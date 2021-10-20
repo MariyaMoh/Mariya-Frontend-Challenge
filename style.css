@@ -1,0 +1,50 @@
+#p1 ,#p2 , #p5{
+    font-family:'Times New Roman';
+    font-size: 250%;
+    color:#685DC5;
+  }
+  #p3,#p4 ,#p6 {
+    font-size: 100%;
+
+  }
+  #b1{
+    font-size: 15px;
+    background-color: #685DC5;
+    padding: 20px;
+    border-radius: 100px;
+  }
+  
+/* for duration and End date*/
+  #d1{
+    margin-left: 300px;
+    margin-top: -185px;
+  }
+
+  /* color for Duration ,Location ... */
+  #dur,#end,#str,#loc,#LeftCard7,#LeftCard5,#LeftCard3{
+    color:#685DC5;
+  }
+  #dur{
+    margin-left: -1px;
+    margin-top: 20px;
+  }
+
+
+  #c1
+  {
+    max-width:20rem;
+    
+  }
+  .margin{
+    margin-top: 100;
+  }
+#middleCard1,#bottomCard1,#LeftCard1,#cc{
+    color:#685DC5;
+
+}
+#navbar{
+  background-color: #685DC5;
+}
+#bartitle{
+  color: white;
+}
